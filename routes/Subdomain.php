@@ -1,3 +1,0 @@
-<?php
-
-$subdomain = '.mytest.local';
